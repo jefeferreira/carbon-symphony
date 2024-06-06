@@ -19,4 +19,4 @@ A dark minimalist theme.
 3. Select `Carbon Symphony` or `Carbon Night`
 
 # License
-[MIT License]()
+[MIT License](./LICENSE)
