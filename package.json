@@ -1,0 +1,36 @@
+{
+  "name": "carbon-symphony",
+  "displayName": "Carbon Symphony",
+  "description": "A dark minimalist theme.",
+  "version": "0.0.1",
+  "publisher": "JefersonFerreira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jefeferreira/carbon-symphony"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carbon Symphony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-symphony.json"
+      },
+      {
+        "label": "Carbon Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-night.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+}
+}
