@@ -6,6 +6,10 @@
 
 A dark minimalist theme.
 
+![preview-carbon-symphony](/screenshot-carbon-symphony.PNG)
+
+![preview-carbon-night](/screenshot-carbon-night.PNG)
+
 # Install
 
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=JefersonFerreira.carbon-symphony)
