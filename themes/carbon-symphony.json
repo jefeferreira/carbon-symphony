@@ -52,7 +52,7 @@
     "statusBarItem.remoteForeground": "#FFFFFF",
     "statusBarItem.remoteBackground": "#3E8ACC",
     "statusBarItem.prominentBackground": "#fafafa1a",
-    "tab.activeBorder": "#BDE0FF",
+    "tab.activeBorder": "#828282",
 		"tab.activeBackground": "#2F2F2F",
     "tab.activeForeground": "#FAFAFA",
     "tab.border": "#1A1A1A",
