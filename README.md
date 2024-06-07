@@ -21,7 +21,7 @@ A dark minimalist theme.
 
 2. Go to `File > Preferences > Theme > Color Theme` or `Press Ctrl+Shift+P`
 
-3. Select `Carbon Symphony` or `Carbon Night`
+3. Select `Carbon Night`,`Carbon Remix` or `Carbon Symphony`
 
 # License
 [MIT License](./LICENSE)
