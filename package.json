@@ -26,6 +26,12 @@
         "label": "Carbon Night",
         "uiTheme": "vs-dark",
         "path": "./themes/carbon-night.json"
+      },
+      {
+        
+        "label": "Carbon Remix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-remix.json"
       }
     ]
   },
