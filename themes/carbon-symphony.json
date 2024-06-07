@@ -301,13 +301,28 @@
 		},
 		{
 			"scope": [
-				"punctuation.definition.arguments",
 				"punctuation.separator",
 				"punctuation.definition.dict",
 				"meta.function"
 			],
 			"settings": {
-				"foreground": "#DADADA"
+				"foreground": "#D1D1D1"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.parameters"
+			],
+			"settings": {
+				"foreground": "#A6FF5D"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.arguments"
+			],
+			"settings": {
+				"foreground": "#A6FF5D"
 			}
 		},
 		{
@@ -318,7 +333,7 @@
 				
 			],
 			"settings": {
-				"foreground": "#DADADA"
+				"foreground": "#D1D1D1"
 			}
 		},
 		{
