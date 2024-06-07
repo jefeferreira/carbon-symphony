@@ -6,9 +6,14 @@
 
 A dark minimalist theme.
 
-![preview-carbon-symphony](/screenshot-carbon-symphony.PNG)
-
+## Carbon Night
 ![preview-carbon-night](/screenshot-carbon-night.PNG)
+
+## Carbon Remix
+![preview-carbon-remix](/screesnhot-carbon-remix.PNG)
+
+## Carbon Symphony
+![preview-carbon-symphony](/screenshot-carbon-symphony.PNG)
 
 # Install
 
