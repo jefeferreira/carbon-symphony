@@ -106,7 +106,6 @@
 				
 				"keyword.operator.accessor",
 				"meta.group.braces.round.function.arguments",
-				"meta.template.expression",
 				"markup.fenced_code meta.embedded.block"
 			],
 			"settings": {
@@ -215,7 +214,6 @@
 			"scope": [
 				"constant.numeric",
 				"constant.other.placeholder",
-				"constant.character.format.placeholder",
 				"meta.property-value",
 				"keyword.other.unit",
 				"keyword.other.template",
@@ -242,9 +240,22 @@
 			}
 		},
 		{
+			"scope": "constant.character.format.placeholder",
+			"settings": {
+				"foreground": "#91D0FF"
+			}
+		},
+
+		{
+			"scope": "variable.other.constant.object",
+			"settings": {
+				"foreground": "#A2EDFD"
+			}
+		},
+		{
 			"scope": "variable.parameter.function",
 			"settings": {
-				"foreground": "#F8818E"
+				"foreground": "#FFB86C"
 			}
 		},
 		{
@@ -258,7 +269,7 @@
 				"constant.keyword.clojure"
 			],
 			"settings": {
-				"foreground": "#A2EDFD"
+				"foreground": "#F8818E"
 			}
 		},
 		{
@@ -311,10 +322,26 @@
 		},
 		{
 			"scope": [
+				"meta.brace.round"
+			],
+			"settings": {
+				"foreground": "#D1D1D1"
+			}
+		},
+		{
+			"scope": [
+				"meta.template.expression"
+			],
+			"settings": {
+				"foreground": "#91D0FF"
+			}
+		},
+		{
+			"scope": [
 				"punctuation.definition.parameters"
 			],
 			"settings": {
-				"foreground": "#A6FF5D"
+				"foreground": "#D1D1D1"
 			}
 		},
 		{
@@ -322,7 +349,7 @@
 				"punctuation.definition.arguments"
 			],
 			"settings": {
-				"foreground": "#A6FF5D"
+				"foreground": "#D1D1D1"
 			}
 		},
 		{
@@ -370,7 +397,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#F2FA97"
+				"foreground": "#fff870"
 			}
 		},
 		{
@@ -382,7 +409,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#F8818E"
+				"foreground": "#D1D1D1"
 			}
 		},
 		{

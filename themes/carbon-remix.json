@@ -108,6 +108,20 @@
 			}
 		},
 		{
+			"scope": [
+				"punctuation.terminator.statement"
+			],
+			"settings": {
+				"foreground": "#E2E2E2"
+			}
+		},
+		{
+			"scope": "meta.block",
+			"settings": {
+				"foreground": "#E2E2E2"
+			}
+		},
+		{
 			"scope": "meta.template.expression",
 			"settings": {
 				"foreground": "#60EBB8"
@@ -222,7 +236,6 @@
 			"scope": [
 				"constant.numeric",
 				"constant.other.placeholder",
-				"constant.character.format.placeholder",
 				"meta.property-value",
 				"keyword.other.unit",
 				"keyword.other.template",
@@ -248,6 +261,12 @@
 				"foreground": "#FF93D1"
 			}
 
+		},
+		{
+			"scope": "constant.character.format.placeholder",
+			"settings": {
+				"foreground": "#60EBB8"
+			}
 		},
 		{
 			"scope": "variable.other.constant.object",
@@ -356,7 +375,7 @@
 				"punctuation.definition.parameters"
 			],
 			"settings": {
-				"foreground": "#68CFFF"
+				"foreground": "#E2E2E2"
 			}
 		},
 		{
@@ -364,7 +383,7 @@
 				"punctuation.definition.arguments"
 			],
 			"settings": {
-				"foreground": "#68CFFF"
+				"foreground": "#E2E2E2"
 			}
 		},
 		{
@@ -382,13 +401,13 @@
 		{
 			"scope":"meta.brace.square",
 			"settings": {
-				"foreground": "#60EBB8"
+				"foreground": "#E2E2E2"
 			}
 		},
 		{
 			"scope":"meta.brace.round",
 			"settings": {
-				"foreground": "#60EBB8"
+				"foreground": "#E2E2E2"
 			}
 		},
 		{

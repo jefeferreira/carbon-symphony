@@ -217,7 +217,6 @@
 			"scope": [
 				"constant.numeric",
 				"constant.other.placeholder",
-				"constant.character.format.placeholder",
 				"meta.property-value",
 				"keyword.other.unit",
 				"keyword.other.template",
@@ -241,6 +240,12 @@
 			],
 			"settings": {
 				"foreground": "#82B8FF"
+			}
+		},
+		{
+			"scope": "constant.character.format.placeholder",
+			"settings": {
+				"foreground": "#C39DF9"
 			}
 		},
 		{
@@ -328,7 +333,7 @@
 				"punctuation.definition.parameters"
 			],
 			"settings": {
-				"foreground": "#F8E86C"
+				"foreground": "#D1D1D1"
 			}
 		},
 		{
@@ -336,7 +341,7 @@
 				"punctuation.definition.arguments"
 			],
 			"settings": {
-				"foreground": "#F8E86C"
+				"foreground": "#D1D1D1"
 			}
 		},
 		{
