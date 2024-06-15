@@ -4,16 +4,16 @@
 
 # Carbon Symphony
 
-A dark minimalist theme.
+Three dark themes to make Visual Studio Code more beautiful and stylish.
 
 ## Carbon Night
-![preview-carbon-night](/screenshot-carbon-night.PNG)
+![preview-carbon-night](/carbon-night.PNG)
 
 ## Carbon Remix
-![preview-carbon-remix](/screenshot-carbon-remix.PNG)
+![preview-carbon-remix](/carbon-remix.PNG)
 
 ## Carbon Symphony
-![preview-carbon-symphony](/screenshot-carbon-symphony.PNG)
+![preview-carbon-symphony](/carbon-symphony.PNG)
 
 # Install
 

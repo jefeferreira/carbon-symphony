@@ -113,11 +113,15 @@
 			}
 		},
 		{
-			"scope": "support.function",
+			"scope": [
+				"support.function",
+				"support.function.builtin"
+			],
 			"settings": {
 				"foreground": "#A2EDFD"
 			}
 		},
+
 		{
 			"scope": "emphasis",
 			"settings": {
@@ -183,6 +187,13 @@
 			}
 		},
 		{
+			"scope": "variable.language.special.self",
+			"settings": {
+				"foreground": "#FFB86C"
+			}
+		},
+		
+		{
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#F8818E"
@@ -242,14 +253,14 @@
 		{
 			"scope": "constant.character.format.placeholder",
 			"settings": {
-				"foreground": "#91D0FF"
+				"foreground": "#5FCCFF"
 			}
 		},
 
 		{
 			"scope": "variable.other.constant.object",
 			"settings": {
-				"foreground": "#A2EDFD"
+				"foreground": "#5FCCFF"
 			}
 		},
 		{
@@ -259,13 +270,23 @@
 			}
 		},
 		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#A2EDFD"
+			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#F8818E"
+			}
+		},
+		{
 			"scope": [
-				"entity.name.type",
 				"entity.other.inherited-class",
 				"meta.function-call",
 				"meta.instance.constructor",
 				"entity.other.attribute-name",
-				"entity.name.function",
 				"constant.keyword.clojure"
 			],
 			"settings": {
@@ -333,7 +354,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#91D0FF"
+				"foreground": "#5FCCFF"
 			}
 		},
 		{

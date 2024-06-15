@@ -124,7 +124,7 @@
 		{
 			"scope": "meta.template.expression",
 			"settings": {
-				"foreground": "#60EBB8"
+				"foreground": "#F6E466"
 			}
 		},
 		{
@@ -165,6 +165,7 @@
 				"foreground": "#FF6274"
 			}
 		},
+
 		{
 			"scope": [
 				"string",
@@ -201,7 +202,7 @@
 		{
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#91D0FF"
+				"foreground": "#FFB86C"
 			}
 		},
 		{
@@ -216,7 +217,7 @@
 				"foreground": "#8DF77C"
 			}
 		},
-
+	
 		{
 			"scope": [
 				"constant.language",
@@ -228,7 +229,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#f8818e"
+				"foreground": "#F5707D"
 			}
 		},
 
@@ -258,26 +259,32 @@
 			
 			],
 			"settings": {
-				"foreground": "#FF93D1"
+				"foreground": "#FF86CB"
 			}
 
 		},
 		{
 			"scope": "constant.character.format.placeholder",
 			"settings": {
-				"foreground": "#60EBB8"
+				"foreground": "#F6E466"
 			}
 		},
 		{
 			"scope": "variable.other.constant.object",
 			"settings": {
-				"foreground": "#C39DF9"
+				"foreground": "#91D0FF"
 			}
 		},
 		{
 			"scope": "entity.name.function.member",
 			"settings": {
-				"foreground": "#F5E156"
+				"foreground": "#C39DF9"
+			}
+		},
+		{
+			"scope": "variable.language.special.self",
+			"settings": {
+				"foreground": "#91D0FF"
 			}
 		},
 		{
@@ -291,8 +298,7 @@
 				"foreground": "#C39DF9"
 			}
 		},
-		
-		
+			
 		{
 			"scope": "storage.type",
 			"settings": {
@@ -333,7 +339,7 @@
 				"keyword.other.template"
 			],
 			"settings": {
-				"foreground": "#FA909B"
+				"foreground": "#FF95A1"
 			}
 		},
 		{
@@ -417,12 +423,12 @@
 			}
 		},
 		{
-			"scope":"support.variable",
+			"scope":"support.variable.property",
 			"settings": {
 				"foreground": "#E2E2E2"
 			}
 		},
-
+	
 		{
 			"scope":"support.constant.property",
 			"settings": {
@@ -455,12 +461,17 @@
 			}
 		},
 		
-	
-	
 		{
 			"scope": "meta.function-call",
 			"settings": {
 				"foreground": "#C39DF9"
+			}
+		},
+		
+		{
+			"scope": "meta.function-call.arguments",
+			"settings": {
+				"foreground": "#E2E2E2"
 			}
 		},
 		{
