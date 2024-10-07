@@ -1,0 +1,42 @@
+{
+  "name": "carbon-symphony",
+  "displayName": "Carbon Symphony",
+  "description": "Three dark themes to make Visual Studio Code more beautiful and stylish.",
+  "version": "1.1.0",
+  "publisher": "JefersonFerreira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jefeferreira/carbon-symphony"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carbon Symphony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-symphony.json"
+      },
+      {
+        "label": "Carbon Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-night.json"
+      },
+      {
+        
+        "label": "Carbon Remix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-remix.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+}
+}

@@ -1,0 +1,6 @@
+/node_modules
+*.vsix
+.gitattributes
+changelog.md 
+vsc-extension-quickstart.md
+.vscodeignore
