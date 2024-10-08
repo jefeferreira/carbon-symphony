@@ -1,8 +1,8 @@
 {
   "name": "carbon-symphony",
   "displayName": "Carbon Symphony",
-  "description": "Three dark themes to make Visual Studio Code more beautiful and stylish.",
-  "version": "1.1.1",
+  "description": "Minimalist dark themes for your vscode.",
+  "version": "1.1.2",
   "publisher": "JefersonFerreira",
   "repository": {
     "type": "git",
