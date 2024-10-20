@@ -251,7 +251,7 @@
       }
     },
     {
-      "scope": ["variable.other.constant", "variable.other.object"],
+      "scope": "variable.other.constant",
       "settings": {
         "foreground": "#E2E2E2"
       }
