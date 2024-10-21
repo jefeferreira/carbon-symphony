@@ -7,13 +7,16 @@
 Minimalist dark themes for your vscode
 
 ## Carbon Night
-![preview-carbon-night](/carbon-night.png)
+![preview-carbon-night](./assets/carbon-night.png)
 
 ## Carbon Remix
-![preview-carbon-remix](/carbon-remix.png)
+![preview-carbon-remix](./assets/carbon-remix.png)
 
 ## Carbon Symphony
-![preview-carbon-symphony](/carbon-symphony.png)
+![preview-carbon-symphony](./assets/carbon-symphony.png)
+
+## Carbon Nexus
+![preview-carbon-nexus](./assets/carbon-nexus.png)
 
 # Install
 
