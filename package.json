@@ -2,7 +2,7 @@
   "name": "carbon-symphony",
   "displayName": "Carbon Symphony",
   "description": "Minimalist dark themes for your vscode.",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "publisher": "JefersonFerreira",
   "repository": {
     "type": "git",
@@ -32,6 +32,12 @@
         "label": "Carbon Remix",
         "uiTheme": "vs-dark",
         "path": "./themes/carbon-remix.json"
+      },
+      {
+        
+        "label": "Carbon Nexus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-nexus.json"
       }
     ]
   },
