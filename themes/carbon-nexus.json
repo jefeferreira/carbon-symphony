@@ -136,7 +136,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#D495FF"
+				"foreground": "#FF8336"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FF6A86"
+				"foreground": "#FF80D2"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#77BBFF"
+				"foreground": "#82B8FF"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFB05B"
+				"foreground": "#60F360"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFE56C"
+				"foreground": "#FF6A86"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#77E751"
+				"foreground": "#FFDC42"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 				"meta.objectliteral"
 			],
 			"settings": {
-				"foreground": "#A3A3B3"
+				"foreground": "#9DB1C5"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#77BBFF"
+				"foreground": "#FF8336"
 			}
 		},
 
@@ -492,13 +492,13 @@
 		{
 			"scope": "meta.function-call",
 			"settings": {
-				"foreground": "#FF6A86"
+				"foreground": "#82B8FF"
 			}
 		},
 		{
 			"scope": "source.python",
 			"settings": {
-				"foreground": "#D1D1D1"
+				"foreground": "#C9C9C9"
 			}
 		},
 		{
