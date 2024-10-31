@@ -269,7 +269,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#D1D1D1"
+				"foreground": "#D79BFF"
 			}
 		},
 
@@ -439,7 +439,7 @@
 		{
 			"scope":"support.variable",
 			"settings": {
-				"foreground": "#FF8CC3"
+				"foreground": "#FF94C7"
 			}
 		},
 		{
