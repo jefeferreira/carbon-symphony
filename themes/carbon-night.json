@@ -32,7 +32,7 @@
     "list.hoverBackground": "#252525",
     "list.hoverForeground": "#E5BFFF",
     "list.inactiveSelectionBackground": "#202020",
-    "list.inactiveSelectionForeground": "#C6C6C6",
+    "list.inactiveSelectionForeground": "#F3F3F3",
     "panelTitle.activeBorder": "#8e8e8e",
     "panelTitle.activeForeground": "#F5F5F5",
     "panelTitle.inactiveForeground": "#858585",
@@ -443,7 +443,7 @@
 		{
 			"scope":"support.variable",
 			"settings": {
-				"foreground": "#9DD274"
+				"foreground": "#83E76D"
 			}
 		},
 		{

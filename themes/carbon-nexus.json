@@ -32,7 +32,7 @@
     "list.hoverBackground": "#202020",
     "list.hoverForeground": "#FFA46B",
     "list.inactiveSelectionBackground": "#202020",
-    "list.inactiveSelectionForeground": "#C6C6C6",
+    "list.inactiveSelectionForeground": "#F3F3F3",
     "panelTitle.activeBorder": "#8e8e8e",
     "panelTitle.activeForeground": "#F5F5F5",
     "panelTitle.inactiveForeground": "#858585",
@@ -437,7 +437,7 @@
 				"meta.objectliteral"
 			],
 			"settings": {
-				"foreground": "#9DB1C5"
+				"foreground": "#FFB86C"
 			}
 		},
 		{
