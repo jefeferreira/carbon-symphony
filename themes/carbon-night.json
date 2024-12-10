@@ -136,7 +136,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#D495FF"
+				"foreground": "#FF6A86"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FF6A86"
+				"foreground": "#FF8CC3"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#77BBFF"
+				"foreground": "#FFB05B"
 			}
 		},
 		{
@@ -166,7 +166,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFB05B"
+				"foreground": "#77BBFF"
 			}
 		},
 		{
@@ -206,13 +206,20 @@
 			}
 		},
 		{
+			"name": "[Custom] Markdown meta definition",
+			"scope": "meta.paragraph.markdown",
+			"settings": {
+				"foreground": "#D495FF"
+			}
+		},
+		{
 			"scope": [
 				"string",
 				"markup.fenced_code",
 				"markup.inline"
 			],
 			"settings": {
-				"foreground": "#9DB1C5"
+				"foreground": "#82B8FF"
 			}
 		},
 		{
@@ -276,7 +283,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F8F8F8"
+				"foreground": "#FF8CC3"
 			}
 		},
 

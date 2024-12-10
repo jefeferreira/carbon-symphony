@@ -24,7 +24,7 @@ Minimalist dark themes for your vscode
 
 2. Go to `File > Preferences > Theme > Color Theme` or `Press Ctrl+Shift+P`
 
-3. Select `Carbon Night`, `Carbon Remix`,`Carbon Symphony` or `Carbon Nexus`
+3. Select `Carbon Night`, `Carbon Remix`, `Carbon Symphony` or `Carbon Nexus`
 
 # License
 [MIT License](./LICENSE)

@@ -147,7 +147,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFB350"
+				"foreground": "#92FFFF"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#8AC5FF"
+				"foreground": "#FFE74B"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FF8CC3"
+				"foreground": "#98FF88"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFEA59"
+				"foreground": "#FF8CC3"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#A8F19C"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -207,13 +207,20 @@
 			}
 		},
 		{
+			"name": "[Custom] Markdown meta definition",
+			"scope": "meta.paragraph.markdown",
+			"settings": {
+				"foreground": "#FFB350"
+			}
+		},
+		{
 			"scope": [
 				"string",
 				"markup.fenced_code",
 				"markup.inline"
 			],
 			"settings": {
-				"foreground": "#9DB1C5"
+				"foreground": "#FF6A86"
 			}
 		},
 		{

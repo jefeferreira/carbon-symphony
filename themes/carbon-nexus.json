@@ -156,7 +156,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#82B8FF"
+				"foreground": "#C49CFF"
 			}
 		},
 		{
@@ -206,13 +206,20 @@
 			}
 		},
 		{
+			"name": "[Custom] Markdown meta definition",
+			"scope": "meta.paragraph.markdown",
+			"settings": {
+				"foreground": "#82B8FF"
+			}
+		},
+		{
 			"scope": [
 				"string",
 				"markup.fenced_code",
 				"markup.inline"
 			],
 			"settings": {
-				"foreground": "#9DB1C5"
+				"foreground": "#FF8336"
 			}
 		},
 		{
@@ -505,7 +512,7 @@
 			"name": "[Custom] Markdown links",
 			"scope": "markup.underline.link",
 			"settings": {
-				"foreground": "#8EC3FF"
+				"foreground": "#60F360"
 			}
 		},
 		{
