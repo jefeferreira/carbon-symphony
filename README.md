@@ -1,10 +1,10 @@
 <div align="center">
-<img src="./assets/icon.png" width="140"/>
+<img src="./assets/icon.jpg" width="140"/>
 </div>
 
 # Carbon Symphony
 
-Minimalist dark themes for your vscode
+A collection of minimalist themes for VSCode
 
 ## Carbon Night
 ![preview-carbon-night](./assets/carbon-night.png)
@@ -24,7 +24,7 @@ Minimalist dark themes for your vscode
 
 2. Go to `File > Preferences > Theme > Color Theme` or `Press Ctrl+Shift+P`
 
-3. Select `Carbon Night`, `Carbon Remix`, `Carbon Symphony` or `Carbon Nexus`
+3. Select `Carbon Nexus`, `Carbon Night`, `Carbon Remix` or `Carbon Symphony`
 
 # License
 [MIT License](./LICENSE)
