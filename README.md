@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/icon.jpg" width="140"/>
+<img src="./assets/icon.png" width="140"/>
 </div>
 
 # Carbon Symphony
