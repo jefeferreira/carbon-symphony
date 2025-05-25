@@ -29,7 +29,7 @@
 		"activityBar.background": "#191919",
 		"activityBar.foreground": "#FF86CB",
 		"activityBar.inactiveForeground": "#5D5D5D",
-		"activityBarBadge.background": "#FF65BC",
+		"activityBarBadge.background": "#E2489F",
 		"activityBarBadge.foreground": "#FFFFFF",
 		"badge.background": "#FF65BC",
 		"badge.foreground": "#FFFFFF",
@@ -72,7 +72,7 @@
 		"statusBar.foreground": "#B0B0B0",
 		"statusBar.noFolderBackground": "#1A1A1A",
 		"statusBarItem.remoteForeground": "#FFFFFF",
-		"statusBarItem.remoteBackground": "#FF65BC",
+		"statusBarItem.remoteBackground": "#E2489F",
 		"statusBarItem.prominentBackground": "#fafafa1a",
 		"tab.activeBorder": "#E1E1E1",
 		"tab.activeBackground": "#ffffff12",
@@ -301,7 +301,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#FF6A86"
+				"foreground": "#FF5B79"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#9BE13F"
+				"foreground": "#9EE656"
 			}
 		},
 		{

@@ -29,7 +29,7 @@
 		"activityBar.background": "#191919",
 		"activityBar.foreground": "#FF6A86",
 		"activityBar.inactiveForeground": "#5D5D5D",
-		"activityBarBadge.background": "#FF5977",
+		"activityBarBadge.background": "#DD2F4F",
 		"activityBarBadge.foreground": "#FFFFFF",
 		"badge.background": "#FF5977",
 		"badge.foreground": "#FFFFFF",
@@ -45,13 +45,13 @@
 		"quickInput.foreground": "#999999",
 		"quickInputList.focusBackground": "#1A1A1A",
 		"list.activeSelectionBackground": "#242424",
-		"list.activeSelectionForeground": "#FF6985",
+		"list.activeSelectionForeground": "#F3F3F3",
 		"list.focusBackground": "#1A1A1A",
 		"list.highlightForeground": "#EAEAEA",
 		"list.hoverBackground": "#252525",
 		"list.hoverForeground": "#F3F3F3",
 		"list.inactiveSelectionBackground": "#202020",
-		"list.inactiveSelectionForeground": "#FF6985",
+		"list.inactiveSelectionForeground": "#F3F3F3",
 		"panelTitle.activeBorder": "#FFB3C1",
 		"panelTitle.activeForeground": "#F5F5F5",
 		"panelTitle.inactiveForeground": "#858585",
@@ -71,7 +71,7 @@
 		"statusBar.foreground": "#B0B0B0",
 		"statusBar.noFolderBackground": "#1A1A1A",
 		"statusBarItem.remoteForeground": "#FFFFFF",
-		"statusBarItem.remoteBackground": "#FF5977",
+		"statusBarItem.remoteBackground": "#DD2F4F",
 		"statusBarItem.prominentBackground": "#fafafa1a",
 		"tab.activeBorder": "#E1E1E1",
 		"tab.activeBackground": "#ffffff12",
@@ -307,7 +307,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#A7E964"
+				"foreground": "#82B8FF"
 			}
 		},
 		{
@@ -322,7 +322,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#71E3F0"
+				"foreground": "#FF83C9"
 			}
 		},
 		{
