@@ -29,7 +29,7 @@
 		"activityBar.background": "#191919",
 		"activityBar.foreground": "#FF86CB",
 		"activityBar.inactiveForeground": "#5D5D5D",
-		"activityBarBadge.background": "#E2489F",
+		"activityBarBadge.background": "#FF65BC",
 		"activityBarBadge.foreground": "#FFFFFF",
 		"badge.background": "#FF65BC",
 		"badge.foreground": "#FFFFFF",
@@ -72,7 +72,7 @@
 		"statusBar.foreground": "#B0B0B0",
 		"statusBar.noFolderBackground": "#1A1A1A",
 		"statusBarItem.remoteForeground": "#FFFFFF",
-		"statusBarItem.remoteBackground": "#E2489F",
+		"statusBarItem.remoteBackground": "#FF65BC",
 		"statusBarItem.prominentBackground": "#fafafa1a",
 		"tab.activeBorder": "#E1E1E1",
 		"tab.activeBackground": "#ffffff12",
@@ -301,7 +301,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#FF5B79"
+				"foreground": "#A7E964"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#9EE656"
+				"foreground": "#FFD866"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 				"keyword.other.template"
 			],
 			"settings": {
-				"foreground": "#ff9263"
+				"foreground": "#FFA178"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 		{
 			"scope": "support.variable",
 			"settings": {
-				"foreground": "#FFDC52"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
