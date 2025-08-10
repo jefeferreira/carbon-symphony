@@ -33,8 +33,8 @@
 		"activityBarBadge.foreground": "#FFFFFF",
 		"badge.background": "#FF65BC",
 		"badge.foreground": "#FFFFFF",
-		"button.background": "#FF65BC",
-		"button.hoverBackground": "#FF7AC5",
+		"button.background": "#E72392",
+		"button.hoverBackground": "#FF41AD",
 		"editorGroupHeader.tabsBackground": "#191919",
 		"editorGroupHeader.tabsBorder": "#191919",
 		"editorSuggestWidget.background": "#191919",
@@ -72,7 +72,7 @@
 		"statusBar.foreground": "#B0B0B0",
 		"statusBar.noFolderBackground": "#1A1A1A",
 		"statusBarItem.remoteForeground": "#FFFFFF",
-		"statusBarItem.remoteBackground": "#FF65BC",
+		"statusBarItem.remoteBackground": "#FF40AC",
 		"statusBarItem.prominentBackground": "#fafafa1a",
 		"tab.activeBorder": "#E1E1E1",
 		"tab.activeBackground": "#ffffff12",
@@ -288,7 +288,7 @@
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#85C6FF"
+				"foreground": "#82B8FF"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#A7E964"
+				"foreground": "#FF986B"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFD866"
+				"foreground": "#FF728C"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 		{
 			"scope": "variable.parameter.function",
 			"settings": {
-				"foreground": "#85C6FF"
+				"foreground": "#82B8FF"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 				"keyword.other.template"
 			],
 			"settings": {
-				"foreground": "#FFA178"
+				"foreground": "#A9DC76"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#85C6FF"
+				"foreground": "#82B8FF"
 			}
 		},
 		{

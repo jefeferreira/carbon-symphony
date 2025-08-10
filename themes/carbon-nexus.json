@@ -33,8 +33,8 @@
 		"activityBarBadge.foreground": "#FFFFFF",
 		"badge.background": "#6ABAFF",
 		"badge.foreground": "#FFFFFF",
-		"button.background": "#6ABAFF",
-		"button.hoverBackground": "#7FBFF7",
+		"button.background": "#0075DC",
+		"button.hoverBackground": "#35A1FF",
 		"editorGroupHeader.tabsBackground": "#191919",
 		"editorGroupHeader.tabsBorder": "#191919",
 		"editorSuggestWidget.background": "#191919",
@@ -308,7 +308,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#D495FF"
+				"foreground": "#51DEDE"
 			}
 		},
 		{
@@ -362,14 +362,9 @@
 		{
 			"scope": [
 				"keyword",
-				"keyword.operator"
+				"keyword.operator",
+				"storage.type"
 			],
-			"settings": {
-				"foreground": "#FF6A86"
-			}
-		},
-		{
-			"scope": "storage.type",
 			"settings": {
 				"foreground": "#FF6A86"
 			}
@@ -390,7 +385,7 @@
 				"constant.keyword.clojure"
 			],
 			"settings": {
-				"foreground": "#A7E964"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -482,7 +477,7 @@
 				"meta.objectliteral"
 			],
 			"settings": {
-				"foreground": "#6ABAFF"
+				"foreground": "#D495FF"
 			}
 		},
 		{
