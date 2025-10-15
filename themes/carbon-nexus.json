@@ -7,6 +7,7 @@
 		"editor.selectionBackground": "#343434",
 		"selection.background": "#535353",
 		"editorCursor.foreground": "#A2A2A2",
+		"editorIndentGuide.activeBackground1": "#d9b97470",
 		"editorIndentGuide.background1": "#42424270",
 		"editor.lineHighlightBackground": "#00000050",
 		"editor.lineHighlightBorder": "#00000000",
@@ -307,7 +308,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#51DEDE"
+				"foreground": "#D495FF"
 			}
 		},
 		{
@@ -333,7 +334,7 @@
 				"support.function.node"
 			],
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -341,7 +342,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FF8336"
+				"foreground": "#FF6A86"
 			}
 		},
 		{
@@ -349,7 +350,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -510,7 +511,7 @@
 		{
 			"scope": "meta.function-call.arguments",
 			"settings": {
-				"foreground": "#D1D1D1"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
@@ -522,13 +523,13 @@
 		{
 			"scope": "meta.function-call",
 			"settings": {
-				"foreground": "#A7E964"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
 			"scope": "source.python",
 			"settings": {
-				"foreground": "#C9C9C9"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
