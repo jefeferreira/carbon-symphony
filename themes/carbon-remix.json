@@ -7,6 +7,7 @@
 		"editor.selectionBackground": "#343434",
 		"selection.background": "#535353",
 		"editorCursor.foreground": "#FF86CB",
+		"editorIndentGuide.activeBackground1": "#d9b97470",
 		"editorIndentGuide.background1": "#42424270",
 		"editor.lineHighlightBackground": "#00000050",
 		"editor.lineHighlightBorder": "#00000000",
@@ -155,7 +156,7 @@
 		{
 			"scope": "meta.template.expression",
 			"settings": {
-				"foreground": "#FF86CB"
+				"foreground": "#FF7EC7"
 			}
 		},
 		{
@@ -275,7 +276,7 @@
 		{
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#FF86CB"
+				"foreground": "#FF986B"
 			}
 		},
 		{
@@ -287,7 +288,7 @@
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -300,7 +301,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#FF986B"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -315,7 +316,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF728C"
+				"foreground": "#FF9E74"
 			}
 		},
 		{
@@ -326,7 +327,7 @@
 				"support.function.node"
 			],
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -334,7 +335,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FF86CB"
+				"foreground": "#FF7EC7"
 			}
 		},
 		{
@@ -342,7 +343,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#D495FF"
 			}
 		},
 		{
@@ -354,19 +355,19 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#FF86CB"
+				"foreground": "#FF7EC7"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#FF86CB"
+				"foreground": "#FF7EC7"
 			}
 		},
 		{
 			"scope": "variable.parameter.function",
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -499,25 +500,25 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#FF86CB"
+				"foreground": "#FF7EC7"
 			}
 		},
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#FF86CB"
+				"foreground": "#FF7EC7"
 			}
 		},
 		{
 			"scope": "meta.function-call.arguments",
 			"settings": {
-				"foreground": "#D1D1D1"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
