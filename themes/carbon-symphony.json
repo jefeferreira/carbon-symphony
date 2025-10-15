@@ -7,6 +7,7 @@
 		"editor.selectionBackground": "#343434",
 		"selection.background": "#535353",
 		"editorCursor.foreground": "#FF6A86",
+		"editorIndentGuide.activeBackground1": "#d9b97470",
 		"editorIndentGuide.background1": "#42424270",
 		"editor.lineHighlightBackground": "#00000050",
 		"editor.lineHighlightBorder": "#00000000",
@@ -321,7 +322,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF83C9"
+				"foreground": "#FBCF68"
 			}
 		},
 		{
@@ -340,7 +341,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#D495FF"
+				"foreground": "#FF6A86"
 			}
 		},
 		{
@@ -348,7 +349,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#82B8FF"
+				"foreground": "#D495FF"
 			}
 		},
 		{
@@ -483,7 +484,7 @@
 		{
 			"scope": "support.variable",
 			"settings": {
-				"foreground": "#85C6FF"
+				"foreground": "#82B8FF"
 			}
 		},
 		{
