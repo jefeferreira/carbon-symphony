@@ -7,6 +7,7 @@
 		"editor.selectionBackground": "#343434",
 		"selection.background": "#535353",
 		"editorCursor.foreground": "#D495FF",
+		"editorIndentGuide.activeBackground1": "#d9b97470",
 		"editorIndentGuide.background1": "#42424270",
 		"editor.lineHighlightBackground": "#00000050",
 		"editor.lineHighlightBorder": "#00000000",
@@ -285,7 +286,7 @@
 		{
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#FFB05B"
+				"foreground": "#FF9263"
 			}
 		},
 		{
@@ -325,7 +326,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FF8CC3"
+				"foreground": "#D495FF"
 			}
 		},
 		{
@@ -376,7 +377,7 @@
 		{
 			"scope": "variable.parameter.function",
 			"settings": {
-				"foreground": "#FFB05B"
+				"foreground": "#FF9263"
 			}
 		},
 		{
@@ -481,13 +482,13 @@
 				"meta.objectliteral"
 			],
 			"settings": {
-				"foreground": "#FF6A86"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
 			"scope": "support.variable",
 			"settings": {
-				"foreground": "#83E76D"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
@@ -521,7 +522,7 @@
 		{
 			"scope": "meta.function-call.arguments",
 			"settings": {
-				"foreground": "#D1D1D1"
+				"foreground": "#E6E6E6"
 			}
 		},
 		{
