@@ -276,7 +276,7 @@
 		{
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#FF986B"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 				"keyword.other.template"
 			],
 			"settings": {
-				"foreground": "#A9DC76"
+				"foreground": "#A6E567"
 			}
 		},
 		{

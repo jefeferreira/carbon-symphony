@@ -283,7 +283,7 @@
 		{
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#FF915A"
+				"foreground": "#6ABAFF"
 			}
 		},
 		{
@@ -308,7 +308,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#D495FF"
+				"foreground": "#32F1FF"
 			}
 		},
 		{
@@ -367,12 +367,6 @@
 			],
 			"settings": {
 				"foreground": "#FF6A86"
-			}
-		},
-		{
-			"scope": "variable.parameter.function",
-			"settings": {
-				"foreground": "#FF915A"
 			}
 		},
 		{
@@ -517,7 +511,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#FF915A"
+				"foreground": "#FF9661"
 			}
 		},
 		{
