@@ -1,8 +1,8 @@
 {
   "name": "carbon-symphony",
   "displayName": "Carbon Symphony",
-  "description": "A collection of minimalist themes for VSCode.",
-  "version": "1.6.0",
+  "description": "A collection of minimalist theme for Visual Studio Code",
+  "version": "1.7.0",
   "publisher": "JefersonFerreira",
   "repository": {
     "type": "git",

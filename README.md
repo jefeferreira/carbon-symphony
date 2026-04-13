@@ -4,7 +4,7 @@
 
 # Carbon Symphony
 
-A collection of minimalist themes for VSCode
+A collection of minimalist theme for Visual Studio Code
 
 ## Carbon Night
 ![preview-carbon-night](./assets/carbon-night.png)
@@ -17,6 +17,9 @@ A collection of minimalist themes for VSCode
 
 ## Carbon Nexus
 ![preview-carbon-nexus](./assets/carbon-nexus.png)
+
+## Carbon Light
+![preview-carbon-light](./assets/carbon-light.png)
 
 # Install
 
